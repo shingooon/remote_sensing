@@ -1,6 +1,4 @@
-*.tif
-*.png
-*.csv
-.env
+.DS_Store
+*.html
 __pycache__/
 .ipynb_checkpoints/
